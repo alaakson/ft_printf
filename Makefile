@@ -5,7 +5,7 @@ SRC = ft_print_hex.c \
 		ft_print_i_d.c \
 		ft_print_p.c \
 		ft_print_u.c \
-		ft_printf.c \
+		ft_print.c \
 		ft_print_utils.c  
 
 O_FILES = $(SRC:%.c=%.o)
