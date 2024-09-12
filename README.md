@@ -24,3 +24,10 @@ You have to implement the following conversions:
 • %X Prints a number in hexadecimal (base 16) uppercase format.
 
 • %% Prints a percent sign
+
+
+## How to make it run:
+1. Once you cloned type cd ft_printf
+2. type make
+3. type cc -Wall -Wextra -Werror -o test_printf main.c libftprintf.a
+4. finally type ./test_printf
